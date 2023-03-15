@@ -1,0 +1,17 @@
+header {
+    display: flex;
+    padding: 1rem;
+    justify-content: space-between;
+}
+header div, header a {
+    padding-right: 1rem;
+    display: flex; 
+    align-items: center;
+}
+header nav {
+    display: flex; 
+    align-items: center;
+}
+header p {
+    padding: 0 1rem;
+}
